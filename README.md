@@ -14,16 +14,16 @@ WebGL Referenzauflösung (960x600)
 ![lopress-KinderAddierer-game](https://user-images.githubusercontent.com/90834282/151702536-fa151090-0924-417c-b6c0-eab956b4ce62.png)
 
 ### Notwendiges für die Ausführung: 
--
+/
 
 ### Drittmaterial: 
--
+/
 
 ### Anforderungsliste:  
--
+/
 
 ### Limitationen:
--
+/
 
 ### Lessons Learned:
 - [x] wie addiere ich im script
